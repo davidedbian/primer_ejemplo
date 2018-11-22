@@ -35,4 +35,3 @@ while vida_pikachu > 0 and vida_enemigo > 0:
         print("¡haz ganado!")
 
 print("el combate ha terminado")
-input("quieres volver a combatir?:")
